@@ -6,7 +6,7 @@ import java.awt.*;
  * (Please set the size to 200 X 400)
  *
  * @author Danielle F. and Jina Y.
- * @date 05.28.2015
+ * @date 05.28.15
  */
 
 public class Tetris extends Applet implements Runnable 
